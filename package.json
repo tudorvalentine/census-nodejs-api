@@ -1,0 +1,18 @@
+{
+  "name": "census-node-js-backend",
+  "version": "1.0.0",
+  "description": "It is backend for the app on Android. Census App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tudorvalentine",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "json": "^11.0.0",
+    "path": "^0.12.7",
+    "pg": "^8.9.0"
+  }
+}
