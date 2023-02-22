@@ -1,7 +1,11 @@
 
-# Census Node.js Backend
+# Census Node.js API
 
-Census Node.js Backend is a backend for the Android app Census App.
+Census Node.js is an API for communicating with the Android app. The database management system used on the backend is PostgreSQL
+
+## Features
+- Receives data from the client (Android app) and stores it on the database server.
+- Extract data from the database and send it to the client in JSON format.
 
 ## Installation
 
@@ -16,6 +20,12 @@ Run the following command:
 ```bash 
 npm start 
 ``` 
+## ER diagram 
+![Screenshot_20230222_015728](https://user-images.githubusercontent.com/66331277/220614301-09cac902-dcaa-4824-832e-83f6f2786aea.png)
+
+
+
+
 
  ## Dependencies 
 
