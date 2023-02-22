@@ -1,7 +1,7 @@
 {
   "name": "census-node-js-backend",
   "version": "1.0.0",
-  "description": "It is backend for the app on Android. Census App",
+  "description": "It is api for the app on Android. Census App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
