@@ -5,7 +5,7 @@ Census Node.js Backend is a backend for the Android app Census App.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install Census Node.js Backend.
+Use the package manager [npm](https://www.npmjs.com/) to install all necesary dependencies.
 
 ```bash
 npm install census-node-js-backend
@@ -19,7 +19,7 @@ npm start
 
  ## Dependencies 
 
- Census Node.js Backend requires the following dependencies: 
+ Census app server requires the following dependencies: 
 
  * [express.js](https://www.npmjs.com/package/express) - ^1.0.0 
 
